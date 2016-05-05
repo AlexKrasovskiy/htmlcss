@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Задание 2</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div class="header">
+</div>
+<div class="content">
+	<div class="img"></div>
+	<div class="img3"><div class="img7"><div class="img5"></div></div></div>
+	<div class="img2"></div>
+	<div></div>
+	<div class="img1"></div>
+	<div class="img4"><div class="img8"></div></div>
+	</div>
+<div class="footer">
+</div>	
+</body>
+</html>
