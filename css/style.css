@@ -1,0 +1,17 @@
+html, body {
+    font: 12pt;
+    font-family: "Century Gothic";
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    background-color: #faff00;
+    color: #000000;
+}
+
+.margin {
+    margin-left: 50px
+}
