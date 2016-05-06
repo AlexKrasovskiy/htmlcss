@@ -1,0 +1,10 @@
+.block {
+    width: calc(500px - 10%);
+    background-color: #ec0c00;
+    color:#fff;
+    text-align:center;
+    padding:5px;
+    margin: 0 auto;
+    font: 15pt sans-serif;
+    font-family: "Century Gothic" ;
+}
