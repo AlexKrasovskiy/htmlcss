@@ -1,0 +1,27 @@
+.container div{
+    margin: 5%;
+    box-sizing:border-box;
+    width:200px;
+    height:150px;
+    display:inline-block;
+    vertical-align:top;
+    font-family: "Century Gothic";
+}
+.block1{
+    color: #ffffff;
+    background-color: #ed0004;
+    padding: 5px;
+}
+
+.block2{
+    padding:8px;
+    border:10px solid #9c001c;
+    background-color: #fff933;
+    color: #ffffff;
+}
+
+.block3{
+    padding:32px;
+    background-color: #7b0006;
+    color: #ffffff;
+}
