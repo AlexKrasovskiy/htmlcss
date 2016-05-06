@@ -1,0 +1,15 @@
+.container {
+    width:500px;
+}
+
+p {
+    font-family: "Century Gothic";
+}
+p::first-line {
+    color: #ed3634;
+}
+p::first-letter {
+    color: #ce0100;
+    font-weight:bold;
+    font-size:150%
+}
