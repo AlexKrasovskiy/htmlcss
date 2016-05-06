@@ -1,10 +1,1 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="css\style.css">
-</head>
-<body>
-<a href="#" class="figure">140x140</a>
-</body>
-</html>
+﻿ex10
