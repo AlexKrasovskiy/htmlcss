@@ -24,8 +24,8 @@
     background:radial-gradient(#2d4e9c, #8afff2);
 }
 .block3 {
-    background:repeating-linear-gradient(-35deg, #2d4e9c, #fff 5px, #fff 5px);
+    background:repeating-linear-gradient(-35deg, #2d4e9c, #fff 5px);
 }
 .block4 {
-    background:repeating-radial-gradient(#2d4e9c, #9bfffa 5px, #fff 5px);
+    background:repeating-radial-gradient(#2d4e9c, #9bfffa 5px);
 }
