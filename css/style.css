@@ -1,0 +1,12 @@
+body,html {
+    font-family: "Century Gothic";
+}
+ol {
+    counter-reset: Step;
+    list-style-type: none;
+}
+li:before {
+    counter-increment: Step;
+    content: counters(Step,".") " ";
+
+}
