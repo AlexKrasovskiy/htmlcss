@@ -1,0 +1,21 @@
+.container{
+    text-align:center;
+    padding:20px 0;
+    width:960px;
+    margin: 0 auto;
+}
+
+.container div{
+    width:200px;
+    height:150px;
+    display:inline-block;
+    margin:2px;
+    color: #ffffff;
+    vertical-align: top;
+    line-height: 230px;
+    font-size: 20px;
+}
+
+.block1 {
+    background:linear-gradient(to bottom, #2d4e9c, #5ac4ed);
+ }
