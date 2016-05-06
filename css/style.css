@@ -1,0 +1,16 @@
+.ex11 {
+    background: #428bca;
+    color: #fff;
+    width: 250px;
+    padding: 15px;
+    -webkit-border-radius: 13px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px dashed #fff;
+    box-shadow: 0 0 0 4px #0d90df, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+    text-shadow: -1px -1px #aa3030;
+    font-weight: normal;
+
+}
+
+
