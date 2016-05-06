@@ -1,0 +1,17 @@
+.imgtrans {
+    position:relative;
+    height:340px;
+    width:604px;
+    margin:0 auto;
+}
+
+.imgtrans img {
+    position:absolute;
+    left:0;
+    -webkit-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+.imgtrans img.img2:hover {
+    opacity:0;
+}
