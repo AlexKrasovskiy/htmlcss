@@ -1,0 +1,11 @@
+body, html {
+    text-align: center;
+}
+p {
+    color: #232323;
+    font-size: 70px;
+    font-family:arial;
+    text-shadow:   0 0 3px #232323,
+    3px 0 3px #232323,
+    0 3px 3px #232323;
+}
