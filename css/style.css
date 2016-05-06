@@ -18,10 +18,10 @@
 }
 
 .block1 {
-    background:linear-gradient(to bottom, #2d4e9c, #9bfffa);
+    background:linear-gradient(to bottom, #2d4e9c, #8afff2);
  }
 .block2 {
-    background:radial-gradient(#2d4e9c, #9bfffa);
+    background:radial-gradient(#2d4e9c, #8afff2);
 }
 .block3 {
     background:repeating-linear-gradient(-35deg, #2d4e9c, #fff 5px, #fff 5px);
