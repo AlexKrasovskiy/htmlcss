@@ -1,0 +1,21 @@
+#speechbubble {
+    margin-left: 40%;
+    margin-top: 15%;
+    width: 200px;
+    height: 140px;
+    background: #5ac4ed;
+    position: absolute;
+    -webkit-border-radius: 40px;
+    border-radius: 40px;
+}
+#speechbubble:before {
+    content:"";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-right: 26px solid #5ac4ed;
+    border-bottom: 20px solid transparent;
+    margin: 10px 0 0 -25px;
+    margin-top: 50px;
+}
