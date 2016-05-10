@@ -1,0 +1,10 @@
+.container{
+    width: 760px;
+    margin: 0 auto;
+}
+
+.container p{
+    -webkit-columns:3;
+    columns:3;
+
+}
