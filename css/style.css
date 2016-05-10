@@ -5,6 +5,6 @@
     margin: 0 auto;
 
     /* Set the border and border image properties */
-    border:36px solid transparent;
+    border:35px solid transparent;
     border-image:url(https://wiki.guildwars2.com/images/7/75/User_Konig_Des_Todes_border_char2.png) 54 50 round;
 }
